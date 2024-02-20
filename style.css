@@ -2,10 +2,6 @@
 body{
     background-color:#000;
 }
-
-header{
-    background-color:aquamarine;
-}
 .image{
     max-width: 300px;
     height: auto;
